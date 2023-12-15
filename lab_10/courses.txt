@@ -1,0 +1,7 @@
+tyyui   hjk                                     jk           jhhj             bjhj      
+BDSF2201 Object oriented programming             40           1st              core     
+BDSF2202 Digital logic Design                    40           1st              core     
+BDSF2203 Probability and Statistics              40           1st              core     
+BDSF2204 Communication and presentation skills   40           1st              elective 
+BDSF2205 Quran Translation                       40           1st              elective 
+BDSF2206 Islamic Studies                         40           1st              elective 
